@@ -63,4 +63,3 @@ for (var i in pruebas) {
 }
 
 //El unico que tiene que dar true es el ultimo
-//Adaptacion de https://codepen.io/maat-aeon/pen/WgoWMb
